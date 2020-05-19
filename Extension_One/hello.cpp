@@ -15,6 +15,7 @@ int main()
   return 7;
   return 10;
   return 11;
+  return 12;
 }
 
 int my_function(int a, int b)
